@@ -14,9 +14,9 @@
 
 ##
 
-<p>Professor: </p>
+<h3>Professor: </h3>
 
-<h3>Responsáveis</h3>
+<h3>Responsáveis:</h3>
 
 <a href="" target="_blank">Bryan James Paiva dos Santos<br>Ra: 202302380948</a>
 
