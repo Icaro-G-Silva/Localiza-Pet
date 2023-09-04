@@ -1,25 +1,14 @@
 # Projeto-Localiza-Pet
 
 
-Autores do Projeto:
-
-Professor Responsável:
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        a {
-            color:white;
-        }
-    </style>
-    <title>Document</title>
-</head>
-<body>
-    <a href="#">Bryan</a>
-</body>
-</html>
+<div style="display: inline_block"><br>
+    <img align="center" alt="Bryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Bryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Bryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Bryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  ##
+ 
+<div> 
+    <a href="https://github.com/Bryan-dev22" target="_blank">Bryan James Paiva dos Santos</a>
+</div>
