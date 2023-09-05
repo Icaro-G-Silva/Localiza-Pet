@@ -16,9 +16,15 @@
 
 <h3>Professor: </h3>
 
+<p style{}>Kazede</p>
+
 <h3>Responsáveis:</h3>
 
-<a href="" target="_blank">Bryan James Paiva dos Santos<br>Ra: 202302380948</a>
+<a href="" target="_blank"><p>Bryan James Paiva dos Santos<br>Ra: 202302380948</p></a>
+<a href="" target="_blank"><p>Ícaro Gabriel Silva<br>Ra: 202102074517</p></a>
+<a href="" target="_blank"><p>>Luigi Trevisan Gomes<br>Ra: 202302380948</p></a>
+<a href="" target="_blank"><p>Vinicius Silva Da Costa<br>Ra: 202212047931</p></a>
+<a href="" target="_blank"><p>David Dênis Martins<br>Ra: 202302377009</p></a>
 
 
 </div>
