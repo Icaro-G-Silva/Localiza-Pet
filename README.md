@@ -16,7 +16,7 @@
 
 <h3>Professor: </h3>
 
-<p style{}>Kazede</p>
+<p style{}>Kasede Rodrigues Júlio</p>
 
 <h3>Responsáveis:</h3>
 
@@ -30,5 +30,3 @@
 </div>
 
 </html>
-
-[def]: ttps://github.com/Bryan-dev2
