@@ -20,11 +20,11 @@
 
 <h3>Responsáveis:</h3>
 
-<a href="https://github.com/Bryan-dev22" target="_blank"><p style="text-decoration: none; color: white;">Bryan James Paiva dos Santos<br>Ra: 202302380948</p></a>
-<a href="https://github.com/Icaro-G-Silva" target="_blank"><p style="text-decoration: none; color: white;">Ícaro Gabriel Silva<br>Ra: 202102074517</p></a>
-<a href="https://github.com/treviisan" target="_blank"><p style="text-decoration:none; color: white;">Luigi Trevisan Gomes<br>Ra: 202302380948</p></a>
-<a href="https://github.com/viniciusvvs" target="_blank"><p style="text-decoration: none; color: white;">Vinicius Silva Da Costa<br>Ra: 202212047931</p></a>
-<a href="https://github.com/davidmrtns" target="_blank"><p style="text-decoration: none; color: white;">David Dênis Martins<br>Ra: 202302377009</p></a>
+<a href="https://github.com/Bryan-dev22" target="_blank"><p">Bryan James Paiva dos Santos<br>Ra: 202302380948</p></a>
+<a href="https://github.com/Icaro-G-Silva" target="_blank"><p">Ícaro Gabriel Silva<br>Ra: 202102074517</p></a>
+<a href="https://github.com/treviisan" target="_blank"><p>Luigi Trevisan Gomes<br>Ra: 202302380948</p></a>
+<a href="https://github.com/viniciusvvs" target="_blank"><p>Vinicius Silva Da Costa<br>Ra: 202212047931</p></a>
+<a href="https://github.com/davidmrtns" target="_blank"><p>David Dênis Martins<br>Ra: 202302377009</p></a>
 
 
 </div>
