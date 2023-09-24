@@ -1,9 +1,12 @@
 from django.shortcuts import render
+from .models import Post  # Importe o modelo de postagem (se você tiver um)
 
 def home(request):
-    # Implemente a view para a página inicial (feed de notícias, por exemplo)
-    return render(request, 'socialnetwork/home.html')
+    # Obtém todas as postagens do banco de dados (exemplo)
+    posts = Post.objects.all()  # Substitua "Post" pelo seu modelo de postagem
 
-def profile(request, username):
-    # Implemente a view para os perfis de usuário
-    return render(request, 'socialnetwork/profile.html')
+    context = {
+        'posts': posts,
+    }
+
+    return render(request, 'socialnetwork/home.html', context)
