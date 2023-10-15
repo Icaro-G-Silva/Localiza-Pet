@@ -76,10 +76,15 @@ WSGI_APPLICATION = 'localizapet.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': 'yHVvzte4buWx9JIMewRH',
+        'HOST': 'containers-us-west-176.railway.app',  # O host é "localhost" se o banco de dados estiver na mesma máquina
+        'PORT': '6282',  # A porta padrão do PostgreSQL é 5432
     }
 }
+
 
 
 # Password validation
